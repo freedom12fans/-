@@ -1,0 +1,11 @@
+com\igeek\egobuy\mapper\ItemParamItemMapper.class
+com\igeek\egobuy\mapper\OrderMapper.class
+com\igeek\egobuy\mapper\UserMapper.class
+com\igeek\egobuy\mapper\ContentCategoryMapper.class
+com\igeek\egobuy\mapper\ContentMapper.class
+com\igeek\egobuy\mapper\ItemParamMapper.class
+com\igeek\egobuy\mapper\ItemCatMapper.class
+com\igeek\egobuy\mapper\OrderShippingMapper.class
+com\igeek\egobuy\mapper\ItemMapper.class
+com\igeek\egobuy\mapper\OrderItemMapper.class
+com\igeek\egobuy\mapper\ItemDescMapper.class

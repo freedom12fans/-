@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54811398-eefc-4110-ac62-18b4cbc5e982" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MyBatisCodeHelperDatasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/buy_manager_web_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8d4204e8-2265-4050-9cd3-c64db92b9515.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8d4204e8-2265-4050-9cd3-c64db92b9515/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-common/buy-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-common/target/buy-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/buy-manager-dao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ContentCategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ContentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ItemCatMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ItemDescMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ItemParamItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/ItemParamMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/OrderItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/OrderShippingMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/SysLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/java/com/igeek/egobuy/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/application-dao.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ContentCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ContentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ItemCatMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ItemDescMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ItemParamItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/ItemParamMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/OrderItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/OrderShippingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/SysLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/buy-manager-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/application-dao.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/config/MybatisPlusConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ContentCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ContentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ItemCatMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ItemDescMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ItemParamItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/ItemParamMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/OrderItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/OrderShippingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/SysLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/com/igeek/egobuy/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ContentCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ContentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ItemCatMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ItemDescMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ItemParamItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/ItemParamMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/OrderItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/OrderShippingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/SysLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/buy-manager-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ContentCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ContentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ItemCatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ItemDescService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ItemParamItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ItemParamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/OrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/OrderShippingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/SysLogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/src/main/java/com/igeek/egobuy/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/buy-manager-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ContentCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ContentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ItemCatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ItemDescService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ItemParamItemService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ItemParamService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/ItemService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/OrderItemService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/OrderShippingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/SysLogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/classes/com/igeek/egobuy/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/handler/MyMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/ContentCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/ItemCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/ItemDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/ItemParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/ItemParamItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/OrderShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/SysLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/src/main/java/com/igeek/egobuy/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/buy-manager-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/META-INF/buy-manager-pojo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/handler/MyMetaObjectHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/Content.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/ContentCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/ItemCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/ItemDesc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/ItemParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/ItemParamItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/OrderShipping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/SysLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/classes/com/igeek/egobuy/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/buy-manager-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ContentCategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ContentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ItemCatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ItemDescServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ItemParamItemServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ItemParamServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/ItemServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/OrderItemServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/OrderShippingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/SysLogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/src/main/java/com/igeek/egobuy/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/buy-manager-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ContentCategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ContentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ItemCatServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ItemDescServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ItemParamItemServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ItemParamServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/ItemServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/OrderItemServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/OrderShippingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/SysLogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/classes/com/igeek/egobuy/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/buy-manager-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/ManagerWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/advice/MyExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/advice/MyInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/advice/MyLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/annotation/RecordSysLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/component/MyErrorAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/java/com/igeek/egobuy/exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/resources/application-swagger.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/resources/log4j2-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/webapp/WEB-INF/jsp/error/4xx.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/webapp/WEB-INF/jsp/error/5xx.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/test/java/igeek/egobuy/ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/src/test/java/igeek/egobuy/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/buy-manager-web-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/buy-manager-web-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/META-INF/resources/WEB-INF/jsp/error/4xx.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/META-INF/resources/WEB-INF/jsp/error/5xx.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/META-INF/resources/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/application-swagger.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/ManagerWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/advice/MyExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/advice/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/advice/MyLogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/annotation/RecordSysLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/component/MyErrorAttributes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/controller/ItemController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/com/igeek/egobuy/exception/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/classes/log4j2-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/test-classes/META-INF/buy-manager-web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/test-classes/igeek/egobuy/ItemTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager-web/target/test-classes/igeek/egobuy/UserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/buy-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/buy-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egobuy.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="87.128" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="87.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="87.128" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="egobuy: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\eduProject\egobuy\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTmujza1gTdJYRcuU8TzrsaRxq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.igeek.egobuy.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\eduProject\egobuy\buy-parent\buy-manager\buy-manager-web\src\main\webapp\WEB-INF\jsp\error" />
+      <recent name="E:\eduProject\egobuy\buy-parent\buy-manager\buy-manager-web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ItemTest.wrapperTest">
+    <configuration name="ItemTest.getPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="buy-manager-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="igeek.egobuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="igeek.egobuy" />
+      <option name="MAIN_CLASS_NAME" value="igeek.egobuy.ItemTest" />
+      <option name="METHOD_NAME" value="getPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="buy-manager-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="igeek.egobuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="igeek.egobuy" />
+      <option name="MAIN_CLASS_NAME" value="igeek.egobuy.ItemTest" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemTest.wrapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="buy-manager-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="igeek.egobuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="igeek.egobuy" />
+      <option name="MAIN_CLASS_NAME" value="igeek.egobuy.ItemTest" />
+      <option name="METHOD_NAME" value="wrapperTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="buy-manager-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="igeek.egobuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="igeek.egobuy" />
+      <option name="MAIN_CLASS_NAME" value="igeek.egobuy.UserTest" />
+      <option name="METHOD_NAME" value="testVersion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testVersion1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="buy-manager-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="igeek.egobuy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="igeek.egobuy" />
+      <option name="MAIN_CLASS_NAME" value="igeek.egobuy.UserTest" />
+      <option name="METHOD_NAME" value="testVersion1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ItemTest.wrapperTest" />
+        <item itemvalue="JUnit.ItemTest.getPageTest" />
+        <item itemvalue="JUnit.UserTest.testVersion1" />
+        <item itemvalue="JUnit.UserTest.testVersion" />
+        <item itemvalue="JUnit.ItemTest.updateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54811398-eefc-4110-ac62-18b4cbc5e982" name="默认" comment="" />
+      <created>1586768182183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586768182183</updated>
+      <workItem from="1586768183384" duration="2780000" />
+      <workItem from="1586772741197" duration="32000" />
+      <workItem from="1586772783801" duration="105000" />
+      <workItem from="1586772903220" duration="126000" />
+      <workItem from="1586828687111" duration="21108000" />
+      <workItem from="1586915811172" duration="6815000" />
+      <workItem from="1586932113884" duration="9403000" />
+      <workItem from="1586948241062" duration="3620000" />
+      <workItem from="1586998741186" duration="4890000" />
+      <workItem from="1587004134230" duration="11624000" />
+      <workItem from="1587031234267" duration="2314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="472" key="#Notifications" timestamp="1586771325230">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="809" y="472" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1586771325230" />
+    <state x="1023" y="473" width="1165" height="894" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586959909835">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1023" y="473" width="1165" height="894" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586959909835" />
+    <state x="0" y="817" key="#com.intellij.ide.util.MemberChooser" timestamp="1587005762458">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="0" y="817" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1587005762458" />
+    <state x="1531" y="631" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1586832539804">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1531" y="631" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586832539804" />
+    <state x="979" y="430" key="#项目结构" timestamp="1586960401152">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="979" y="430" key="#项目结构/0.0.2560.1400@0.0.2560.1400" timestamp="1586960401152" />
+    <state x="1318" y="314" width="1041" height="831" key="CommitChangelistDialog2" timestamp="1587031719701">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1318" y="314" width="1041" height="831" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587031719701" />
+    <state x="1383" y="504" key="FileChooserDialogImpl" timestamp="1587045445538">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1383" y="504" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587045445538" />
+    <state width="1290" height="368" key="GridCell.Tab.0.bottom" timestamp="1587031221119">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1290" height="368" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587031221119" />
+    <state width="1290" height="368" key="GridCell.Tab.0.center" timestamp="1587031221119">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1290" height="368" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587031221119" />
+    <state width="1290" height="368" key="GridCell.Tab.0.left" timestamp="1587031221119">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1290" height="368" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587031221119" />
+    <state width="1290" height="368" key="GridCell.Tab.0.right" timestamp="1587031221119">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1290" height="368" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587031221119" />
+    <state width="2031" height="153" key="GridCell.Tab.1.bottom" timestamp="1586959914422">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2031" height="153" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586959914422" />
+    <state width="2031" height="153" key="GridCell.Tab.1.center" timestamp="1586959914421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2031" height="153" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586959914421" />
+    <state width="2031" height="153" key="GridCell.Tab.1.left" timestamp="1586959914421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2031" height="153" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586959914421" />
+    <state width="2031" height="153" key="GridCell.Tab.1.right" timestamp="1586959914421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2031" height="153" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586959914421" />
+    <state x="437" y="598" key="Maven.ArtifactSearchDialog" timestamp="1586934145127">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="437" y="598" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586934145127" />
+    <state x="1580" y="315" key="Registry" timestamp="1586943782388">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1580" y="315" key="Registry/0.0.2560.1400@0.0.2560.1400" timestamp="1586943782388" />
+    <state x="1222" y="293" key="SettingsEditor" timestamp="1587045435520">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1222" y="293" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587045435520" />
+    <state x="677" y="453" key="Vcs.Push.Dialog.v2" timestamp="1587044787548">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="677" y="453" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1587044787548" />
+    <state x="806" y="539" key="com.intellij.ide.util.TipDialog" timestamp="1587031236061">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="806" y="539" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587031236061" />
+    <state x="1400" y="898" width="648" height="480" key="find.popup" timestamp="1586832487544">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1400" y="898" width="648" height="480" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1586832487544" />
+    <state x="250" y="679" key="new project wizard" timestamp="1586832158393">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="250" y="679" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1586832158393" />
+    <state x="1205" y="571" width="672" height="678" key="search.everywhere.popup" timestamp="1587018741720">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1205" y="571" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1587018741720" />
+  </component>
+</project>

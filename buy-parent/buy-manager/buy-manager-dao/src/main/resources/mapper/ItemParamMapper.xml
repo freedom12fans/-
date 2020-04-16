@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.igeek.egobuy.mapper.ItemParamMapper">
+  <resultMap id="BaseResultMap" type="com.igeek.egobuy.pojo.ItemParam">
+    <!--@mbg.generated-->
+    <!--@Table tb_item_param-->
+    <id column="id" jdbcType="BIGINT" property="id" />
+    <result column="item_cat_id" jdbcType="BIGINT" property="itemCatId" />
+    <result column="param_data" jdbcType="LONGVARCHAR" property="paramData" />
+    <result column="created" jdbcType="TIMESTAMP" property="created" />
+    <result column="updated" jdbcType="TIMESTAMP" property="updated" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    <!--@mbg.generated-->
+    id, item_cat_id, param_data, created, updated
+  </sql>
+</mapper>

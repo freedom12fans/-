@@ -1,0 +1,11 @@
+com\igeek\egobuy\service\OrderService.class
+com\igeek\egobuy\service\ContentService.class
+com\igeek\egobuy\service\ItemParamItemService.class
+com\igeek\egobuy\service\ItemCatService.class
+com\igeek\egobuy\service\OrderItemService.class
+com\igeek\egobuy\service\OrderShippingService.class
+com\igeek\egobuy\service\ItemDescService.class
+com\igeek\egobuy\service\ItemService.class
+com\igeek\egobuy\service\ContentCategoryService.class
+com\igeek\egobuy\service\ItemParamService.class
+com\igeek\egobuy\service\UserService.class

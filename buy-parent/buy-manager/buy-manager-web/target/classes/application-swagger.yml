@@ -1,0 +1,21 @@
+swagger:
+  enabled: true #一般开发环境打开  生产环境关闭
+  title: 这里是标题
+  description: 这里是描述
+  version: 1.1.0
+  terms-of-service-url: http://www.fuwutiaokuan.com
+  contact:
+    name: 作者姓名
+    email: 88888888@qq.com
+    url: https://www.zuozhe.com
+  license: 许可证
+  license-url: https://www.xvkezheng.com
+  #扫描指定的包
+  base-package: com.igeek
+  ui-config:
+    #显示请求耗时
+    display-request-duration: true
+    #启用json编辑器
+    json-editor: true
+  #配出某些路径
+  #exclude-path: /error
